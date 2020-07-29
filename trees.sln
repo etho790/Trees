@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "trees", "trees\trees.vcxproj", "{AA2127E5-3AA1-4A47-845F-260A06C75F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Debug|x64.ActiveCfg = Debug|x64
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Debug|x64.Build.0 = Debug|x64
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Debug|x86.Build.0 = Debug|Win32
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Release|x64.ActiveCfg = Release|x64
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Release|x64.Build.0 = Release|x64
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Release|x86.ActiveCfg = Release|Win32
+		{AA2127E5-3AA1-4A47-845F-260A06C75F7F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DF9D38B-982B-43C8-AFAC-39B80575C68A}
+	EndGlobalSection
+EndGlobal
